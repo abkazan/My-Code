@@ -1,5 +1,7 @@
 This is an implementation of the MapReduce algorithm which returns the count of a specified word in a text file. 
+
 The only file needed to count a word in a .txt file is mapreduce, which is an executable file
+
 The files ending in .c or .h are the source code used to compile the executable
 
 To use it:
