@@ -10,4 +10,9 @@ To use it:
 
 Note: this might not work on every computer. It was compiled and run on a mac. 
 
-Feel free to modify file.txt as you please
+
+A walk through of some of 
+<p>
+hello world
+</p>
+
