@@ -4,6 +4,8 @@ The only file needed to count a word in a .txt file is mapreduce, which is an ex
 
 The files ending in .c or .h are the source code used to compile the executable
 
+
+
 To use it:
 
 1. Download the files
