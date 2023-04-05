@@ -8,3 +8,6 @@ This is a two dimensional spaceship animation that I made for a Computer Graphic
   2. Click on the file titled "x-wing.html"
   3. If that doesn't work, try right clicking on the file, hover "Open With" and click on Google Chrome
   4. Enjoy!
+<br>
+Alternatively, it can be viewed using this link: https://andrew-kazan-spaceship-732094.netlify.app/ 
+<br>You might have to go into full screen to see the whole thing
