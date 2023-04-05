@@ -7,4 +7,6 @@ I have included the current frontend part of the project, as this is what I have
 
 I plan to talk with my team about uploading the final version of the project in its entirety, once the semester is over<br>
 
-Since it probably won't run, I have included a picture of the frontend
+Since it probably won't run, I have included a screenshot of our current frontend interface:
+
+![alt text](https://github.com/abkazan/My-Code/blob/main/Digital_Sampler/Screen%20Shot%202023-04-04%20at%2010.03.31%20PM.png)
