@@ -4,8 +4,7 @@ This project demonstrates oop inheritance, graph search, and web scraping
 ### Main module: scrape.py 
 includes all the search classes, as well as a function that scrapes a basic Flask webpage, and inputs a password to retrieve a hidden image
 ### Flask app
-Skeleton code was provided by course instructor, and implemented/edited by me.<br>
-It can be run with the command "python3 application.py"
+Provided by course insntructor and can be run with "python3 application.py"
 ### debug.ipynb
 Jupyter Notebook file that demonstrates the functionality of the scrape module
 ### tester.py
