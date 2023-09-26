@@ -10,6 +10,5 @@ Jupyter Notebook file that demonstrates the functionality of the scrape module<b
 ### tester.py
 Tester file was also provided by instructor, and provides thorough testing of the module<br>
 ### Final note
-This was implemented on an instance of a Google Cloud VM, it also required installing various pip packages<br>
-Because of this, the code will likely not work on a local machine<br>
+This was implemented on an instance of a Google Cloud VM, it also required installing various pip packages, therefore the code likely will not run on a local machine
 
