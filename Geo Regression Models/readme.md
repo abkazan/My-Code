@@ -5,4 +5,4 @@
 3. I then constructed a linear regression model to predict the population of a county in Wisconsin, based off its area.
 4. Next, I extracted housing unit data and made another model to predicted housing units based off population, and plotted this relationship.
 5. Finally I chose an individual county to analyze, and made another model to predict its population based off geographical features.
-## I tried to upload the datasets used, however they where too big in size. To see my findings, please view the p6.ipynb file
+### I tried to upload the datasets used, however they where too big in size. To see my findings, please view the p6.ipynb file
