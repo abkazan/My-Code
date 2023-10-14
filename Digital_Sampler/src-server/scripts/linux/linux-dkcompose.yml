@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  linuxdb:
+    image: mysql/mysql-server:latest
+    restart: always
+    environment:
+        MYSQL_ROOT_PASSWORD: admin
+        MYSQL_DATABASE: sample_lib
+        MYSQL_ROOT_HOST: '%'
+    ports:
+      - "3306:3306"
+    volumes:
+      - type: bind
+        source: ../../sql-dump
+        target: /docker-entrypoint-initdb.d
+volumes:
+    linuxdb:

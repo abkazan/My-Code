@@ -1,0 +1,4 @@
+primary_key,upload_date,file_data,file_name,file_ext,duration,title,artist,album,genre,album_art,bpm,key_signature
+,,,sample1.wav,.wav,,My Smaple,Alex,Alex's Album,Rock,,120,A Minor
+,,,sample2.mp3,.mp3,,My Second Smample,Joshua,Joshie's Album,Hop Hip,,45,B Major
+,,,sample3.flac,.flac,,My Third Snaple,Jared,Beats By L35,Grunge,,67,F Mixolidian

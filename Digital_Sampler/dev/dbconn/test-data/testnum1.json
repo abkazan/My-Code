@@ -1,0 +1,10 @@
+{
+    "file_path": "./dbconn/test-data/lo-fi-violin.mp3",
+    "duration": "9",
+    "title": "Lo Fi Violin - Chillout Calming Melody",
+    "artist": "k",
+    "genre": "Lo-Fi",
+    "instrument": "Violin",
+    "bpm": 80,
+    "key_signature": "C Minor"
+}

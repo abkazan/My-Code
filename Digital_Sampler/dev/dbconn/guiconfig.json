@@ -1,0 +1,127 @@
+{
+    "window_args" : {
+        "bg" : "#c89cd7"
+    },
+    "mode_button_args" : {
+        "width" : 12,             
+        "height" : 1,
+        "font" : ["Fixedsys", 13, "bold"],
+        "bg" : "#701e60",
+        "fg" : "#c89cd7"
+    },
+
+    "search_title_args" : {
+        "text" : "Sample Library Search",
+        "bg" : "#c89cd7",
+        "font": ["Fixedsys", 20, "bold"],
+        "fg" : "#450939",
+        "pady" : 15
+    },
+    "search_frame_args" : {
+        "height" : 100,
+        "width" : 900,
+        "bg" : "#c89cd7"
+    },
+
+    "search_text_args" : {         
+        "width" : 50,
+        "bd": 2,
+        "font" : ["Fixedsys", 12]
+    },
+    "select_menu_args" : {
+        "highlightbackground" : "#c89cd7",
+        "width" : 12,
+        "justify" : "left",
+        "font" : ["Fixedsys", 10]
+    },
+
+    "search_button_args" : {
+        "font" : ["Fixedsys", 10],
+        "text" : "Search",
+        "width" : 10,
+        "pady" : 2
+    },
+
+    "columns" : [
+        "Title",
+        "Artist",
+        "Genre",
+        "Instrument",
+        "Key Signature",
+        "BPM",
+        "Upload Date"
+    ],
+
+    "table_setup" : 
+    {
+        "borderwidth": 2,
+        "relief": "solid"
+    },
+    "table_args" : [
+        {
+            "text":"Title", 
+            "width":35
+        },
+        {
+            "text":"Artist", 
+            "width":15
+        },
+        {
+            "text":"Upload Date", 
+            "width":20
+        },
+        {
+            "text": "Genre", 
+            "width": 10
+        },
+        {
+            "text": "Instrument", 
+            "width": 10
+        },
+        {
+            "text": "BPM", 
+            "width": 5},
+        {
+            "text": "Duration", 
+            "width": 8
+        },
+        {
+            "text": "Key Signature", 
+            "width": 12
+        },
+        {
+            "text": "Export", 
+            "width": 10
+        }
+    ],
+
+    "import_frame_args" : {
+        "height" : 800,
+        "width" : 900,
+        "bg" : "#c89cd7"
+    },
+
+    "select_file_button_args" : {
+        "text" : "Choose File",
+        "bg" : "#c3d4c8",
+        "font" : ["Fixedsys", 10, "bold"]
+    },
+
+    "file_path_args" : {
+
+        "width" : 25,
+        "font" : ["Fixedsys", 10],
+        "anchor" : "w",
+        "relief" : "sunken",
+        "bg" : "#c3d4c8"
+
+    },
+
+    "import_button_args" : {
+        "text" : "Upload",
+        "bg" : "#535c56",
+        "fg" : "#c3d4c8",
+        "font" : ["Fixedsys", 10, "bold"]
+    }
+
+}

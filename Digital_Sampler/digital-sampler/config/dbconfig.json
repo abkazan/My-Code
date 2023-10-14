@@ -1,0 +1,170 @@
+{
+    "window" : {
+        "bg" : "#c89cd7"
+    },
+
+    "button_frame" : {
+        "bg" : "#c89cd7",
+        "borderwidth" : 2,
+        "relief" : "ridge"
+    },
+
+    "mode_button" : {
+        "width" : 15,             
+        "height" : 1,
+        "font" : ["Terminal", 15],
+        "bg" : "#701e60",
+        "fg" : "#ffffff"
+    },
+
+    "search_title" : {
+        "text" : "Sample Library Search",
+        "bg" : "#c89cd7",
+        "font": ["Terminal", 20],
+        "fg" : "#450939",
+        "pady" : 15
+    },
+
+    "import_title" : {
+        "text" : "Save to Sample Library",
+        "bg" : "#c89cd7",
+        "font": ["Terminal", 20],
+        "fg" : "#450939",
+        "pady" : 15
+    },
+    "search_frame" : {
+        "height" : 100,
+        "width" : 900,
+        "bg" : "#c89cd7"
+    },
+
+    "search_text" : {         
+        "width" : 50,
+        "bd": 2,
+        "font" : ["Terminal", 10]
+    },
+
+    "select_menu" : {
+        "highlightbackground" : "#c89cd7",
+        "width" : 12,
+        "justify" : "left",
+        "font" : ["Terminal", 10]
+    },
+
+    "search_button" : {
+        "font" : ["Terminal", 10],
+        "text" : "Search",
+        "width" : 10,
+        "pady" : 3
+    },
+
+    "columns" : [
+        "Title",
+        "Artist",
+        "Genre",
+        "Instrument",
+        "Key Signature",
+        "BPM",
+        "Upload Date"
+    ],
+
+    "table_setup" : 
+    {
+        "borderwidth": 2,
+        "relief": "solid"
+    },
+    "table" : [
+        {
+            "text":"Title", 
+            "width":35
+        },
+        {
+            "text":"Artist", 
+            "width":15
+        },
+        {
+            "text":"Upload Date", 
+            "width":20
+        },
+        {
+            "text": "Genre", 
+            "width": 10
+        },
+        {
+            "text": "Instrument", 
+            "width": 10
+        },
+        {
+            "text": "BPM", 
+            "width": 5},
+        {
+            "text": "Duration", 
+            "width": 8
+        },
+        {
+            "text": "Key Signature", 
+            "width": 12
+        },
+        {
+            "text": "Export", 
+            "width": 8
+        },
+        {
+            "text": "Edit",
+            "width": 6
+        }
+    ],
+
+    "import_frame" : {
+        "height" : 800,
+        "width" : 900,
+        "bg" : "#c89cd7"
+    },
+
+    "select_file_button" : {
+        "text" : "Choose File",
+        "bg" : "#c3d4c8",
+        "font" : ["Terminal", 10, "bold"]
+    },
+
+    "file_path" : {
+
+        "width" : 25,
+        "font" : ["Terminal", 10],
+        "anchor" : "w",
+        "relief" : "sunken",
+        "bg" : "#c3d4c8"
+
+    },
+
+    "import_button" : {
+        "text" : "Upload",
+        "bg" : "#535c56",
+        "fg" : "#c3d4c8",
+        "font" : ["Terminal", 10, "bold"]
+    },
+    "edit_window" : {
+        "bg" : "#a6f8b0"
+    },
+    "edit_title" : {
+        "fg" : "#282e33",
+        "font" : ["Terminal", 20, "bold"],
+        "bg" : "#a6f8b0"
+    },
+    "edit_attr_label" : {
+        "fg" : "#282e33",
+        "font" : ["Terminal", 10],
+        "bg" : "#a6f8b0"
+    },
+    "edit_entry" : {
+        "width" : 20,
+        "font" : ["Terminal", 10],
+        "fg" : "#282e33"
+    },
+    "save_button" : {
+        "text" : "Save",
+        "font" : ["Terminal", 12],
+        "bg" : "#A5DE1A"
+    }
+
+}
